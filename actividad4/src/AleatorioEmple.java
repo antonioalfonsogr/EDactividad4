@@ -64,6 +64,7 @@ public class AleatorioEmple {
 			file.writeDouble(salario[i]);
 		}
 		file.close();
+		// Modificación 3
 	}// fin crear
 
 }// fin class
