@@ -42,6 +42,7 @@ public class AleatorioEmple {
 			System.out.println(" ------------------------------------------");
 		} else 
 			System.out.println(" ---------FICHERO VACÍO --------------------");
+		// Modificación 2
 	}// fin verporconsola
 
 	public static void crear() throws IOException {
