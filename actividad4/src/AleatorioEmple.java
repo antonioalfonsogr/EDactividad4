@@ -7,6 +7,7 @@ public class AleatorioEmple {
 	public static void main(String[] args) throws IOException {
 		crear();
 		leer();
+		// Modificación 1
 	}
 
 	public static void leer() throws IOException {
